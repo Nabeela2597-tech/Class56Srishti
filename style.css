@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background:linear-gradient(#00d4ff 0% ,#da5e8a 100%);
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-style: groove;
+    border-color: chocolate;
+    border-width: thick;
+}
+h2{
+  font-family: 'Dancing Script', cursive;  
+}
+p{
+    max-width: 500px;
+    padding-left: 500px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 17px;
+    text-align: justify;
+}
